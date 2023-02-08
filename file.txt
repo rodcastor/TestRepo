@@ -1,2 +1,3 @@
 Git rocks
 this is a change
+This is a new row
