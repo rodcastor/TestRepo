@@ -1,2 +1,2 @@
 Git rocks
-This is a new row
+This is a new row and it's great!
